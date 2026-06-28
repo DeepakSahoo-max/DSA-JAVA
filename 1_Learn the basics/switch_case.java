@@ -1,0 +1,31 @@
+public class switch_case {
+    public static void main(String[] args) {
+        int day = 3;
+        switch (day) {
+            case 1: 
+                System.out.print("Monday");
+                break;
+            case 2 :
+                System.out.print("Tuesday");
+                break;
+            case 3: 
+                System.out.print("Wednesday");
+                break;
+            case 4 :
+                System.out.print("Thusday");
+                break;
+            case 5: 
+                System.out.print("Friday");
+                break;
+            case 6 :
+                System.out.print("Saturday");
+                break;
+            case 7 : 
+                System.out.println("Sunda");
+            default:
+                System.out.println("invalid");
+                break;
+        }
+    }
+}
+ 
