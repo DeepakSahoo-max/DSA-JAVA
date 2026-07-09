@@ -1,4 +1,4 @@
-package KnowBasicMaths;
+package BasicMaths3;
 
 public class palindrome_num {
     public boolean isPalindrome(int n){

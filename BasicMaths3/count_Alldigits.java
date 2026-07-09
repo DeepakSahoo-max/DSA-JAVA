@@ -1,4 +1,4 @@
-package KnowBasicMaths;
+package BasicMaths3;
 
 /**
  * count_Alldigits

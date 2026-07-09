@@ -1,4 +1,4 @@
-package KnowBasicMaths;
+package BasicMaths3;
 
 public class primeNumber {
     public boolean isPrime(int n ){

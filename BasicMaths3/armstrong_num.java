@@ -1,4 +1,4 @@
-package KnowBasicMaths;
+package BasicMaths3;
 
 public class armstrong_num {
     public boolean isArmstrong(int n ){

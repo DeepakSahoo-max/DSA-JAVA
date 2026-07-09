@@ -1,4 +1,4 @@
-package KnowBasicMaths;
+package BasicMaths3;
 
 public class reverse_num {
     public int reverse_number(int n){
