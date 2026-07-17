@@ -16,6 +16,8 @@ public class insertion_sort {
     //        }
     //     }
     // }
+    
+    // Recursive approach
      public void insertion_sorting(int []arr,int n , int i){
            if (i==n) return;
            int j = i;
