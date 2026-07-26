@@ -67,7 +67,5 @@ public class unionsortarr {
             arr2[i]=sc.nextInt();
         }
         obj.unionSortedarr(arr1, arr2, n1, n2);
-        
-         
     }
 }
