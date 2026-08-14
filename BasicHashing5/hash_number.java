@@ -15,7 +15,7 @@ public class hash_number {
         }
 
         //precompute 
-        int hash[]=new int[10000000000];
+        int hash[]=new int[26];
         for(int i =0;i<n;i++){
             hash[arr[i]] += 1;
         }

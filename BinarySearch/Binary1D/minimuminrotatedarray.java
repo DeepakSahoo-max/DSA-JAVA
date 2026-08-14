@@ -8,6 +8,11 @@ class minimuminrotatedarray{
         int high = n-1;
         int ans = Integer.MAX_VALUE;
         while (low<=high) {
+             if (arr[low] <= arr[high]) {
+            ans = Math.min(ans, arr[low]);
+            break;
+        }
+
             int mid = (low+high)/2;
         if(arr[mid]==arr[low] && arr[mid]==arr[high]){
                 low++;
