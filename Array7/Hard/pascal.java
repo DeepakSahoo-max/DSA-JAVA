@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class pascal {
+    
     long nCr(long n, long r) {
         long res = 1;
         for (long i = 0; i < r; i++) {

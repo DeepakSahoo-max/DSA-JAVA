@@ -7,7 +7,7 @@ public class myAtoi {
     // public int myatoi(String s){
     //     int i=0;
     //     int n=s.length();
-    //     while(i<n && s.charAt(i)=='('){
+    //     while(i<n && s.charAt(i)==' '){
     //         i++;
     //     }
 

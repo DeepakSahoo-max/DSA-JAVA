@@ -33,6 +33,5 @@ public class roman {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
         System.out.print(obj.romanToint(s));
-
     }
 }
